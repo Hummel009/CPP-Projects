@@ -1,0 +1,7 @@
+17:58:45 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+
+17:58:46 Build Finished. 0 errors, 0 warnings. (took 437ms)
+
