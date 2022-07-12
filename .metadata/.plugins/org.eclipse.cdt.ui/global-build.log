@@ -16,3 +16,2132 @@ Info: Nothing to build for TestProject
 Info: Internal Builder is used for build
 g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
 g++ -o TestProject.exe "src\\TestProject.o" 
+12:07:08 **** Rebuild of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+Info: Nothing to build for TestProject
+12:08:47 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:08:59 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:09:03 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:09:45 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:13:15 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:13:31 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+..\src\TestProject.cpp: In function 'int main()':
+..\src\TestProject.cpp:14:44: warning: right operand of comma operator has no effect [-Wunused-value]
+   cout << "This is line in the cycle\n" , i;
+                                            ^
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:47:37 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+12:48:07 **** Incremental Build of configuration Release for project TestProject ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\TestProject.o" "..\\src\\TestProject.cpp" 
+g++ -o TestProject.exe "src\\TestProject.o" 
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+Info: Nothing to build for TestProject
+13:00:36 **** Rebuild of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiPort.o" "..\\src\\DelphiPort.cpp" 
+..\src\DelphiPort.cpp: In function 'int main()':
+..\src\DelphiPort.cpp:23:19: error: invalid operands of types 'const char [5]' and 'double' to binary 'operator+'
+    cout << "X = " + x + ", N = " + n + ", F = " + f;
+            ~~~~~~~^~~
+Info: Nothing to build for TestProject
+13:01:13 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiPort.o" "..\\src\\DelphiPort.cpp" 
+g++ -o DelphiPort.exe "src\\DelphiPort.o" 
+Info: Nothing to build for TestProject
+Info: Nothing to build for DelphiPort
+13:01:35 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiPort.o" "..\\src\\DelphiPort.cpp" 
+g++ -o DelphiPort.exe "src\\DelphiPort.o" 
+Info: Nothing to build for DelphiPort
+Info: Nothing to build for TestProject
+13:04:29 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiPort.o" "..\\src\\DelphiPort.cpp" 
+g++ -o DelphiPort.exe "src\\DelphiPort.o" 
+Info: Nothing to build for TestProject
+Info: Nothing to build for DelphiPort
+13:04:43 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiPort.o" "..\\src\\DelphiPort.cpp" 
+g++ -o DelphiPort.exe "src\\DelphiPort.o" 
+Info: Nothing to build for DelphiPort
+13:06:01 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\main\\cpp\\hummel\\Lab1_01.o" "..\\src\\main\\cpp\\hummel\\Lab1_01.cpp" 
+g++ -o DelphiPort.exe "src\\main\\cpp\\hummel\\Lab1_01.o" 
+13:23:34 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\main\\cpp\\hummel\\Lab1_02.o" "..\\src\\main\\cpp\\hummel\\Lab1_02.cpp" 
+..\src\main\cpp\hummel\Lab1_02.cpp: In function 'int main()':
+..\src\main\cpp\hummel\Lab1_02.cpp:14:12: error: 'HummelLib' was not declared in this scope
+   arr[i] = HummelLib.readln(input, "Enter the element: ");
+            ^~~~~~~~~
+..\src\main\cpp\hummel\Lab1_02.cpp:14:29: error: 'input' was not declared in this scope
+   arr[i] = HummelLib.readln(input, "Enter the element: ");
+                             ^~~~~
+..\src\main\cpp\hummel\Lab1_02.cpp:34:2: error: 'System' was not declared in this scope
+  System.out.println("GCD is " + arr[n - 1]);
+  ^~~~~~
+13:28:39 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\main\\cpp\\hummel\\Lab1_02.o" "..\\src\\main\\cpp\\hummel\\Lab1_02.cpp" 
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\main\\cpp\\hummel\\Lab1_01.o" "..\\src\\main\\cpp\\hummel\\Lab1_01.cpp" 
+g++ -o DelphiPort.exe "src\\main\\cpp\\hummel\\Lab1_01.o" "src\\main\\cpp\\hummel\\Lab1_02.o" 
+src\main\cpp\hummel\Lab1_02.o:Lab1_02.cpp:(.text.startup+0x0): multiple definition of `main'
+src\main\cpp\hummel\Lab1_01.o:Lab1_01.cpp:(.text.startup+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
+14:11:00 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\main\\cpp\\hummel\\Lab1_01.o" "..\\src\\main\\cpp\\hummel\\Lab1_01.cpp" 
+g++ -o DelphiPort.exe "src\\main\\cpp\\hummel\\Lab1_01.o" "src\\main\\cpp\\hummel\\Lab1_02.o" 
+src\main\cpp\hummel\Lab1_02.o:Lab1_02.cpp:(.text.startup+0x0): multiple definition of `main'
+src\main\cpp\hummel\Lab1_01.o:Lab1_01.cpp:(.text.startup+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
+14:11:12 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -o DelphiPort.exe "src\\main\\cpp\\hummel\\Lab1_01.o" "src\\main\\cpp\\hummel\\Lab1_02.o" 
+src\main\cpp\hummel\Lab1_02.o:Lab1_02.cpp:(.text.startup+0x0): multiple definition of `main'
+src\main\cpp\hummel\Lab1_01.o:Lab1_01.cpp:(.text.startup+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
+14:11:13 **** Incremental Build of configuration Release for project DelphiPort ****
+Info: Internal Builder is used for build
+g++ -o DelphiPort.exe "src\\main\\cpp\\hummel\\Lab1_01.o" "src\\main\\cpp\\hummel\\Lab1_02.o" 
+src\main\cpp\hummel\Lab1_02.o:Lab1_02.cpp:(.text.startup+0x0): multiple definition of `main'
+src\main\cpp\hummel\Lab1_01.o:Lab1_01.cpp:(.text.startup+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
+14:22:17 **** Rebuild of configuration Release for project DelphiLab1_01 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_01.o" "..\\src\\DelphiLab1_01.cpp" 
+g++ -o DelphiLab1_01.exe "src\\DelphiLab1_01.o" 
+Info: Nothing to build for DelphiLab1_01
+14:22:30 **** Incremental Build of configuration Release for project DelphiLab1_01 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_01.o" "..\\src\\DelphiLab1_01.cpp" 
+g++ -o DelphiLab1_01.exe "src\\DelphiLab1_01.o" 
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_01
+14:25:36 **** Rebuild of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_01
+14:26:18 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_01
+14:26:31 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_01
+14:26:34 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:26:39 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_01
+14:30:07 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+Info: Nothing to build for DelphiLab1_02
+14:33:30 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+14:38:17 **** Rebuild of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+..\src\DelphiLab1_03.cpp: In function 'int main()':
+..\src\DelphiLab1_03.cpp:23:29: error: no match for 'operator+' (operand types are 'const char [18]' and 'std::unordered_set<int>')
+  printf("Unique elements: " + nums);
+         ~~~~~~~~~~~~~~~~~~~~^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'const std::reverse_iterator<_Iterator>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'const std::move_iterator<_IteratorL>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  printf("Unique elements: " + nums);
+                               ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:966:5: note: candidate: template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:31: note:   'std::unordered_set<int>' is not derived from 'const __gnu_cxx::__normal_iterator<_Iterator, _Container>'
+  printf("Unique elements: " + nums);
+                               ^~~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+14:38:41 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+..\src\DelphiLab1_03.cpp: In function 'int main()':
+..\src\DelphiLab1_03.cpp:23:2: error: 'System' was not declared in this scope
+  System.out.println("Unique elements: " + nums);
+  ^~~~~~
+..\src\DelphiLab1_03.cpp:23:41: error: no match for 'operator+' (operand types are 'const char [18]' and 'std::unordered_set<int>')
+  System.out.println("Unique elements: " + nums);
+                     ~~~~~~~~~~~~~~~~~~~~^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'const std::reverse_iterator<_Iterator>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'const std::move_iterator<_IteratorL>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const char [18]'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:966:5: note: candidate: template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:43: note:   'std::unordered_set<int>' is not derived from 'const __gnu_cxx::__normal_iterator<_Iterator, _Container>'
+  System.out.println("Unique elements: " + nums);
+                                           ^~~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+14:40:03 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+..\src\DelphiLab1_03.cpp: In function 'int main()':
+..\src\DelphiLab1_03.cpp:23:30: error: no match for 'operator<<' (operand types are 'std::basic_ostream<char>' and 'std::unordered_set<int>')
+  cout << "Unique elements: " << nums << "\n";
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:108:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:117:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:127:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:166:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:170:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:174:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:638:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:91:5: note: candidate: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:181:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:638:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:105:5: note: candidate: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:192:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:201:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:205:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:220:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:224:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:232:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:245:7: note: candidate: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:638:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:119:5: note: candidate: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'std::unordered_set<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5325:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5325:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   'std::unordered_set<int>' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:46:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\system_error:209:5: note: candidate: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::error_code&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os, const error_code& __e)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\system_error:209:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'const std::error_code&'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:497:5: note: candidate: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:497:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::unordered_set<int>')
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:502:5: note: candidate: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:502:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'char'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:508:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:508:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'char'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:514:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:514:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'signed char'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:519:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:519:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'unsigned char'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:539:5: note: candidate: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:539:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   mismatched types 'const _CharT*' and 'std::unordered_set<int>'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:638:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:321:5: note: candidate: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'const char*'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:556:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:556:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'const char*'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:569:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:569:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'const signed char*'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:574:5: note: candidate: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:574:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_03.cpp:23:33: note:   cannot convert 'nums' (type 'std::unordered_set<int>') to type 'const unsigned char*'
+  cout << "Unique elements: " << nums << "\n";
+                                 ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39:0,
+                 from ..\src\DelphiLab1_03.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:628:5: note: candidate: std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&&, const _Tp&) [with _CharT = char; _Traits = std::char_traits<char>; _Tp = std::unordered_set<int>] <near match>
+     operator<<(basic_ostream<_CharT, _Traits>&& __os, const _Tp& __x)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:628:5: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_03.cpp:23:7: error: cannot bind 'std::basic_ostream<char>' lvalue to 'std::basic_ostream<char>&&'
+  cout << "Unique elements: " << nums << "\n";
+  ~~~~~^~~~~~~~~~~~~~~~~~~~~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+14:41:45 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+14:42:25 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+14:42:53 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+14:43:12 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_03
+14:52:40 **** Rebuild of configuration Release for project DelphiLab1_04 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_04.o" "..\\src\\DelphiLab1_04.cpp" 
+..\src\DelphiLab1_04.cpp: In function 'void doCalcsWithEps(double)':
+..\src\DelphiLab1_04.cpp:18:23: error: invalid operands of types 'double' and 'const char [7]' to binary 'operator+'
+   cout << "X = " << x + "; K = " << k + "; F =" + f << "\n";
+                     ~~^~~~~~~~~~
+..\src\DelphiLab1_04.cpp:18:49: error: invalid operands of types 'const char*' and 'double' to binary 'operator+'
+   cout << "X = " << x + "; K = " << k + "; F =" + f << "\n";
+                                     ~~~~~~~~~~~~^~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_03
+14:52:48 **** Incremental Build of configuration Release for project DelphiLab1_04 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_04.o" "..\\src\\DelphiLab1_04.cpp" 
+..\src\DelphiLab1_04.cpp: In function 'void doCalcsWithEps(double)':
+..\src\DelphiLab1_04.cpp:18:23: error: invalid operands of types 'double' and 'const char [7]' to binary 'operator+'
+   cout << "X = " << x + "; K = " << k + "; F =" + f << "\n";
+                     ~~^~~~~~~~~~
+..\src\DelphiLab1_04.cpp:18:49: error: invalid operands of types 'const char*' and 'double' to binary 'operator+'
+   cout << "X = " << x + "; K = " << k + "; F =" + f << "\n";
+                                     ~~~~~~~~~~~~^~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_03
+14:52:53 **** Incremental Build of configuration Release for project DelphiLab1_04 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_04.o" "..\\src\\DelphiLab1_04.cpp" 
+..\src\DelphiLab1_04.cpp: In function 'void doCalcsWithEps(double)':
+..\src\DelphiLab1_04.cpp:18:50: error: invalid operands of types 'const char*' and 'double' to binary 'operator+'
+   cout << "X = " << x << "; K = " << k + "; F =" + f << "\n";
+                                      ~~~~~~~~~~~~^~~
+Info: Nothing to build for DelphiLab1_01
+Info: Nothing to build for DelphiLab1_02
+Info: Nothing to build for DelphiLab1_03
+14:52:55 **** Incremental Build of configuration Release for project DelphiLab1_04 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_04.o" "..\\src\\DelphiLab1_04.cpp" 
+g++ -o DelphiLab1_04.exe "src\\DelphiLab1_04.o" 
+Info: Nothing to build for DelphiLab1_03
+Info: Nothing to build for DelphiLab1_04
+17:10:43 **** Incremental Build of configuration Release for project DelphiLab1_01 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_01.o" "..\\src\\DelphiLab1_01.cpp" 
+g++ -o DelphiLab1_01.exe "src\\DelphiLab1_01.o" 
+17:10:43 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_02.o" "..\\src\\DelphiLab1_02.cpp" 
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:10:44 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_03.o" "..\\src\\DelphiLab1_03.cpp" 
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:10:44 **** Rebuild of configuration Release for project DelphiLab1_05 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_05.o" "..\\src\\DelphiLab1_05.cpp" 
+g++ -o DelphiLab1_05.exe "src\\DelphiLab1_05.o" 
+17:10:45 **** Rebuild of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:59:34: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+   for (Month m = JAN; m <= DEC; m++) {
+                                 ~^~
+..\src\DelphiLab1_06.cpp:72:35: error: cannot convert 'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' to 'int' in assignment
+   temp2 = monthCapacity.find(month);
+                                   ^
+..\src\DelphiLab1_06.cpp:81:20: error: no match for 'operator+' (operand types are 'int' and 'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}')
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+               ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::reverse_iterator<_Iterator>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::move_iterator<_IteratorL>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const _CharT*' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const _CharT*' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+..\src\DelphiLab1_06.cpp:83:42: error: no match for 'operator+' (operand types are 'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' and 'int')
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                  ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const _CharT*' and 'std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const _CharT*' and 'std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::unordered_map<Month, int>::iterator {aka std::__detail::_Node_iterator<std::pair<const Month, int>, false, false>}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+..\src\DelphiLab1_06.cpp:90:38: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+  for (Weekday wd = MON; wd <= SUN; wd++) {
+                                    ~~^~
+Info: Nothing to build for DelphiLab1_01
+17:18:32 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:18:32 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:18:33 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:59:34: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+   for (Month m = JAN; m <= DEC; m++) {
+                                 ~^~
+..\src\DelphiLab1_06.cpp:72:35: error: cannot convert 'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' to 'int' in assignment
+   temp2 = monthCapacity.find(month);
+                                   ^
+..\src\DelphiLab1_06.cpp:81:20: error: no match for 'operator+' (operand types are 'int' and 'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}')
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+               ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::reverse_iterator<_Iterator>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::move_iterator<_IteratorL>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const _CharT*' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'const _CharT*' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:81:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  int result = date + daysSinceNY.find(month) + (year - 1) * 365;
+                                            ^
+..\src\DelphiLab1_06.cpp:83:42: error: no match for 'operator+' (operand types are 'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' and 'int')
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                  ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:341:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_algobase.h:67:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_iterator.h:1200:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4929:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1147:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const _CharT*' and 'std::_Rb_tree_iterator<std::pair<const Month, int> >'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1163:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4966:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4982:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:4994:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5000:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5006:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5018:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'const _CharT*' and 'std::_Rb_tree_iterator<std::pair<const Month, int> >'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5024:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5030:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.h:5036:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:83:44: note:   'std::map<Month, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const Month, int> >}' is not derived from 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>'
+  if (isHigher && daysSinceNY.find(month) + date > 59) {
+                                            ^~~~
+..\src\DelphiLab1_06.cpp:90:38: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+  for (Weekday wd = MON; wd <= SUN; wd++) {
+                                    ~~^~
+Info: Nothing to build for DelphiLab1_01
+17:21:31 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:21:31 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:21:31 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:59:11: error: invalid conversion from 'int' to 'Month' [-fpermissive]
+   month = temp1;
+           ^~~~~
+..\src\DelphiLab1_06.cpp:85:38: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+  for (Weekday wd = MON; wd <= SUN; wd++) {
+                                    ~~^~
+Info: Nothing to build for DelphiLab1_01
+17:23:59 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:23:59 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:23:59 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:58:7: error: no match for 'operator>>' (operand types are 'std::istream {aka std::basic_istream<char>}' and 'Month')
+   cin >> month;
+   ~~~~^~~~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:168:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(bool& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:168:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'bool&' from an rvalue of type 'bool'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:172:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char; _Traits = std::char_traits<char>] <near match>
+       operator>>(short& __n);
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:172:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'short int&' from an rvalue of type 'short int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:175:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(unsigned short& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:175:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'short unsigned int&' from an rvalue of type 'short unsigned int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:179:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char; _Traits = std::char_traits<char>] <near match>
+       operator>>(int& __n);
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:179:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:182:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(unsigned int& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:182:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'unsigned int&' from an rvalue of type 'unsigned int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:186:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(long& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:186:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'long int&' from an rvalue of type 'long int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:190:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(unsigned long& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:190:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'long unsigned int&' from an rvalue of type 'long unsigned int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:195:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(long long& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:195:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'long long int&' from an rvalue of type 'long long int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:199:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(unsigned long long& __n)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:199:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'long long unsigned int&' from an rvalue of type 'long long unsigned int'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:214:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(float& __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:214:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'float&' from an rvalue of type 'float'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:218:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(double& __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:218:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'double&' from an rvalue of type 'double'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:222:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>] <near match>
+       operator>>(long double& __f)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:222:7: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: invalid initialization of non-const reference of type 'long double&' from an rvalue of type 'long double'
+   cin >> month;
+          ^~~~~
+..\src\DelphiLab1_06.cpp:58:7: note: candidate: operator>>(int, int) <built-in>
+   cin >> month;
+   ~~~~^~~~~~~~
+..\src\DelphiLab1_06.cpp:58:7: note:   no known conversion for argument 1 from 'std::istream {aka std::basic_istream<char>}' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:120:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(__istream_type& (*__pf)(__istream_type&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:120:7: note:   no known conversion for argument 1 from 'Month' to 'std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&) {aka std::basic_istream<char>& (*)(std::basic_istream<char>&)}'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:124:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>; std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator>>(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:124:7: note:   no known conversion for argument 1 from 'Month' to 'std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:131:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(ios_base& (*__pf)(ios_base&))
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:131:7: note:   no known conversion for argument 1 from 'Month' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:235:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(void*& __p)
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:235:7: note:   no known conversion for argument 1 from 'Month' to 'void*&'
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:259:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+       operator>>(__streambuf_type* __sb);
+       ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:259:7: note:   no known conversion for argument 1 from 'Month' to 'std::basic_istream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1437:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_string.tcc:1437:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'Month'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:934:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc:955:5: note: candidate: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc:955:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   mismatched types '_CharT2*' and 'Month'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:934:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc:923:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc:923:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'Month')
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:756:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:756:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   cannot convert 'month' (type 'Month') to type 'unsigned char&'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:761:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:761:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   cannot convert 'month' (type 'Month') to type 'signed char&'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:803:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:803:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   cannot convert 'month' (type 'Month') to type 'unsigned char*'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:808:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:808:5: note:   template argument deduction/substitution failed:
+..\src\DelphiLab1_06.cpp:58:10: note:   cannot convert 'month' (type 'Month') to type 'signed char*'
+   cin >> month;
+          ^~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:40:0,
+                 from ..\src\DelphiLab1_06.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:924:5: note: candidate: std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&&, _Tp&) [with _CharT = char; _Traits = std::char_traits<char>; _Tp = Month] <near match>
+     operator>>(basic_istream<_CharT, _Traits>&& __is, _Tp& __x)
+     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream:924:5: note:   conversion of argument 1 would be ill-formed:
+..\src\DelphiLab1_06.cpp:58:10: error: cannot bind 'std::istream {aka std::basic_istream<char>}' lvalue to 'std::basic_istream<char>&&'
+   cin >> month;
+          ^~~~~
+..\src\DelphiLab1_06.cpp:84:38: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]
+  for (Weekday wd = MON; wd <= SUN; wd++) {
+                                    ~~^~
+Info: Nothing to build for DelphiLab1_01
+17:25:52 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:25:52 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:25:53 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:82:6: warning: unused variable 'day' [-Wunused-variable]
+  int day = result % 7;
+      ^~~
+g++ -o DelphiLab1_06.exe "src\\DelphiLab1_06.o" 
+Info: Nothing to build for DelphiLab1_01
+17:26:04 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:26:04 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:26:04 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+g++ -o DelphiLab1_06.exe "src\\DelphiLab1_06.o" 
+Info: Nothing to build for DelphiLab1_05
+Info: Nothing to build for DelphiLab1_06
+17:26:41 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+g++ -o DelphiLab1_06.exe "src\\DelphiLab1_06.o" 
+Info: Nothing to build for DelphiLab1_01
+17:35:36 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:35:36 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:35:36 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:18:19: error: storage size of 'weekdayNames' isn't known
+  int weekdayNames[];
+                   ^
+Info: Nothing to build for DelphiLab1_01
+17:35:53 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:35:53 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:35:54 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+..\src\DelphiLab1_06.cpp: In function 'int main()':
+..\src\DelphiLab1_06.cpp:20:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[0] = "Sunday";
+                    ^~~~~~~~
+..\src\DelphiLab1_06.cpp:21:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[1] = "Monday";
+                    ^~~~~~~~
+..\src\DelphiLab1_06.cpp:22:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[2] = "Tuesday";
+                    ^~~~~~~~~
+..\src\DelphiLab1_06.cpp:23:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[3] = "Wednesday";
+                    ^~~~~~~~~~~
+..\src\DelphiLab1_06.cpp:24:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[4] = "Thursday";
+                    ^~~~~~~~~~
+..\src\DelphiLab1_06.cpp:25:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[5] = "Friday";
+                    ^~~~~~~~
+..\src\DelphiLab1_06.cpp:26:20: error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+  weekdayNames[6] = "Saturday";
+                    ^~~~~~~~~~
+Info: Nothing to build for DelphiLab1_01
+17:36:09 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:36:09 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:36:09 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+g++ -o DelphiLab1_06.exe "src\\DelphiLab1_06.o" 
+Info: Nothing to build for DelphiLab1_06
+Info: Nothing to build for DelphiLab1_01
+17:38:00 **** Incremental Build of configuration Release for project DelphiLab1_02 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_02.exe "src\\DelphiLab1_02.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:38:01 **** Incremental Build of configuration Release for project DelphiLab1_03 ****
+Info: Internal Builder is used for build
+g++ -o DelphiLab1_03.exe "src\\DelphiLab1_03.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file DelphiLab1_03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for DelphiLab1_05
+17:38:01 **** Incremental Build of configuration Release for project DelphiLab1_06 ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\DelphiLab1_06.o" "..\\src\\DelphiLab1_06.cpp" 
+g++ -o DelphiLab1_06.exe "src\\DelphiLab1_06.o" 
+Info: Nothing to build for DelphiLab1_06
