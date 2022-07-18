@@ -8,6 +8,7 @@ using namespace std;
 bool contains(set<char> myset, char x){
 	return myset.find(x) != myset.end();
 }
+
 int main() {
 	set<char> sogl = {'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'x', 'z'};
 	set<char> glas = {'a', 'e', 'i', 'o', 'u', 'y'};
@@ -47,4 +48,5 @@ int main() {
 			cout << s << " ";
 		}
 	}
+	cin.get();
 }
